@@ -8,7 +8,7 @@
     --header-height: 3.5rem;
     /*========== Colors ==========*/
     /* Change favorite color */
-    --hue-color: 220;
+    --hue-color: 205;
     --first-color: hsl(var(--hue-color), 80%, 47%);
     --first-color-second: hsl(var(--hue-color), 80%, 47%);
     --first-color-alt: hsl(var(--hue-color), 68%, 43%);
@@ -197,7 +197,7 @@ img {
 .nav__logo,
 .nav__toggle {
     color: var(--title-color);
-    font-weight: var(--font-medium);
+    font-weight: var(--font-semi-bold);
 }
 
 .nav__logo:hover {

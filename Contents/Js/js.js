@@ -19,7 +19,7 @@ if (navClose) {
 }
 // typing amimation skills
 var typed = new Typed(".typing", {
-    Strings: ["Developer", "Designer", "Coder", "Freelancer"],
+    strings: ["Developer", "Designer", "Coder", "Freelancer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
